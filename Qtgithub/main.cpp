@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
 	int kk = 110;
 	int kkk = 1100;
 	int  jjjj = 11;
+	int jjj;
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
