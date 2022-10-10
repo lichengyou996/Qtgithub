@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
 	int  jjjj = 11;
 	int jjj;
 	int kkkkk;
+	int kkkkkk;
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
