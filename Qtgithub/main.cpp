@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
 	printf ( "hello world" );
 	printf ("hello lcy");
 	printf("hello xyx");
+        printf ("hello lcyxyx");
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
