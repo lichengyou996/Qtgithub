@@ -4,8 +4,9 @@
 int main(int argc, char *argv[])
 {
 	int i = 11;
-	int j = i + 11;
-	printf("hello world");
+	整数 j  =  i  +  11 ;
+	printf ( "你好世界" );
+	printf ("hello lcy");
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
