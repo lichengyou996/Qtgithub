@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-	int i = 1;
+	int i = 11;
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
