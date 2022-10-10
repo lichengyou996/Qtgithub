@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
 	int jjj;
 	int kkkkk;
 	int kkkkkkjjj;
+	int jjj = j + 12;
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
