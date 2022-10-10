@@ -4,6 +4,7 @@
 int main(int argc, char *argv[])
 {
 	int i = 11;
+	int j = i + 11;
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
