@@ -5,6 +5,7 @@ int main(int argc, char *argv[])
 {
 	int j = 1 - 3;
 	int k = j;
+	int kk = 10;
     QApplication a(argc, argv);
     Qtgithub w;
     w.show();
